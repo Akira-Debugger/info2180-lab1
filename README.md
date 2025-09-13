@@ -1,2 +1,3 @@
-# info2180-lab1
-this is my repository for info2180 's first lab
+# INFO2180 Lab 1
+
+This is Lab 1 for <Jevaughn Johnson>
